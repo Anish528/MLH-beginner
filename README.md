@@ -1,2 +1,2 @@
 # MLH
-Here to help merge other people pull request for MLH comp
+Here to help merge pull request for MLH comp
